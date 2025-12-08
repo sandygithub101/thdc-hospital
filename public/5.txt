@@ -1,0 +1,5 @@
+{"timestamp":"Wed Feb 23 2022, 12:06:52 pm","ConnectorStatusEnumType":"available","evseId":"evcs5","connectorId":"B","customData":{"action_via":"server","action_for":"transaction"}}
+
+{"timestamp":"Wed Feb 23 2022, 12:06:52 pm","ConnectorStatusEnumType":"available","evseId":"evcs5","connectorId":"B","customData":{"action_via":"server","action_for":"transaction"}}
+kush
+kush
