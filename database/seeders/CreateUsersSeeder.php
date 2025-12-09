@@ -38,11 +38,11 @@ class CreateUsersSeeder extends Seeder
 
                'name'=>'Admin User',
 
-               'email'=>'admin@tzisolutions.com',
+               'email'=>' ',
 
                'type'=>1,
 
-               'password'=> bcrypt('123456'),
+               'password'=> bcrypt(' '),
 
             ],
 
@@ -50,11 +50,11 @@ class CreateUsersSeeder extends Seeder
 
                'name'=>'Doctor User',
 
-               'email'=>'doctorStrange@tzisolutions.com',
+               'email'=>' ',
 
                'type'=> 2,
 
-               'password'=> bcrypt('123456'),
+               'password'=> bcrypt(' '),
 
             ],
 
@@ -62,11 +62,11 @@ class CreateUsersSeeder extends Seeder
 
                'name'=>'User',
 
-               'email'=>'user@tzisolutions.com',
+               'email'=>' ',
 
                'type'=>0,
 
-               'password'=> bcrypt('123456'),
+               'password'=> bcrypt(' '),
 
             ],
 
