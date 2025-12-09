@@ -21,7 +21,7 @@ Route::get('/', function () {
 });
 
 Route::get('email-test', function(){
-    $details['email'] = 'kumarkush108@gmail.com';
+    $details['email'] = ' ';
     dispatch(new App\Jobs\SendEmailJob($details));
     dd('done');
 });
